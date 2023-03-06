@@ -1,0 +1,5 @@
+com\mycompany\ejercicio1ad2023\Main.class
+model\Alumno.class
+controller\AlumnoDAO.class
+controller\ObjectDBUtil.class
+.netbeans_automatic_build
